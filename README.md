@@ -21,7 +21,7 @@ A continuación menciono las principales caracteristas de este proyecto:
 
 1. Simplicidad: La sintaxis debera de ser lo más natural posible al lenguaje español.
 2. Sencillo de aprender: Al ser simple aprenderas más rápido este nuevo lenguaje.
-3. Libre: Cualquiera puede descargar el código fuente del lenguaje, extender las librerias basicas y crear sus propias librerias si asi lo desea.
+3. Libre: Cualquiera puede descargar el código fuente del lenguaje, extender las librerias basicas y crear sus propias librerias si asi lo desea. Y para que todos podamos difrutar de Latino, subir a este repositorio los cambios y/o nuevas funcionalidades.
 4. Lenguaje de alto nivel: Cuando escribas código no tendrás que preocuparte por detalles de bajo nivel, como manejar la memoria empleada en tu programa.
 5. Portable: Cuando escribas tus programas en “latino” podras ejecutarlo en cualquier plataforma.
 6. Orientado a Objetos: Permitirá programación orientada a procedimientos así como orientada a objetos.
